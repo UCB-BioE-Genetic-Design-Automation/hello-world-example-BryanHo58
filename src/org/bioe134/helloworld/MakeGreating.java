@@ -27,7 +27,7 @@ public class MakeGreating {
         //Create the Function and initiate it
         MakeGreating func = new MakeGreating();
         func.initiate();
-        
+        //test
         //Run the function multiple times
         System.out.println(func.run(betty));
         System.out.println(func.run(bill));
